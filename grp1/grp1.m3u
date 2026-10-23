@@ -1,0 +1,415 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/500px-CNN_International_logo.svg.png" group-title="News",CNN
+http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=45592
+
+#EXTINF:-1 tvg-id="CNNUSA_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/500px-CNN_International_logo.svg.png" group-title="News",CNN Alt2
+http://4.30.180.36:8420/cnn/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="CNNUSA_Alt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/500px-CNN_International_logo.svg.png" group-title="News",CNN Alt3
+http://212.5.144.156:8080/cnn/index.m3u8
+
+#EXTINF:-1 tvg-id="CNNUSA_Alt4.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/500px-CNN_International_logo.svg.png" group-title="News",CNN Alt4
+http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNInternationalUK.us" tvg-country="UK" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJrTL8UIcbZsn9gQJkyxeW8T8iO3uD9rGOg&s" group-title="News",CNN International
+https://jmp2.uk/stvp-ATBD800001VA
+
+#EXTINF:-1 tvg-id="CNNInternationalUK_Alt2.us" tvg-country="UK" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJrTL8UIcbZsn9gQJkyxeW8T8iO3uD9rGOg&s" group-title="News",CNN International Alt2
+https://jmp2.uk/stvp-GBBD8000016N
+
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/330px-MS_NOW_logo.svg.png" group-title="News",MS NOW
+http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=45535
+
+#EXTINF:-1 tvg-id="MSNBC_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/330px-MS_NOW_logo.svg.png" group-title="News",MS NOW Alt2
+http://4.30.180.36:8420/msnbc/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="MSNBC_Alt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/330px-MS_NOW_logo.svg.png" group-title="News",MS NOW Alt3
+http://206.212.244.63/114/index.m3u8
+
+#EXTINF:-1 tvg-id="MSNBC_Alt4.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/330px-MS_NOW_logo.svg.png" group-title="News",MS NOW Alt4
+http://cdn.haititivi.com/MSNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.vhv.rs/dpng/d/470-4709035_abc-news-hd-png-download.png" group-title="News",ABC News
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.vhv.rs/dpng/d/470-4709035_abc-news-hd-png-download.png" group-title="News",ABC News Alt2
+https://dbrb49pjoymg4.cloudfront.net/10001/99951517/hls/master.m3u8?ads.xumo_channelId=99951517
+
+#EXTINF:-1 tvg-id="ABCNewsLive_Alt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.vhv.rs/dpng/d/470-4709035_abc-news-hd-png-download.png" group-title="News",ABC News Alt3
+http://89.105.221.127/ABC/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="US" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews_Alt2.uk" tvg-country="US" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News Alt2
+http://84.17.50.102/bbcnews/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews_Alt3.uk" tvg-country="US" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News Alt3
+http://69.64.57.208:8080/bbcnews/manifest.m3u8
+
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-country="US" tvg-language="English" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="News",Sky News
+https://jmp2.uk/stvp-USBB52000022Q
+
+#EXTINF:-1 tvg-id="SkyNews_Alt2.uk" tvg-country="US" tvg-language="English" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="News",Sky News Alt2
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+
+#EXTINF:-1 tvg-id="WGNDT1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gvHrpnf.png" group-title="News",WGN 9
+http://23.237.104.106:8080/USA_WGN/index.m3u8
+
+#EXTINF:-1 tvg-id="WGNDT1_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gvHrpnf.png" group-title="News",WGN 9 Alt2
+https://restream-live.realiptv.to/1234567/7654321/85340
+
+#EXTINF:-1 tvg-id="WGNDT1_Alt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gvHrpnf.png" group-title="News",WGN 9 Alt3
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/95011
+
+#EXTINF:-1 tvg-id="WGNDT1_Alt4.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gvHrpnf.png" group-title="News",WGN 9 Alt4
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/99457
+
+#EXTINF:-1 tvg-id="WGNDT1_Alt5.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gvHrpnf.png" group-title="News",WGN 9 Alt5
+http://23.237.104.106:8080/USA_WGN/index.m3u8
+
+#EXTINF:-1 tvg-id="WMAQDT1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/wblxisu.png" group-title="News",WMAQ 5 Chicago
+https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
+
+#EXTINF:-1 tvg-id="LocalNowChicago.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/500px-LocalNow_logo_2020.png" group-title="News",Local Now Chicago
+https://prod.localnowapi.com/vod/api/v2/LiveStream/Playback/ilChicago/index.m3u8
+
+#EXTINF:-1 tvg-id="FSTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" group-title="News",Free Speech TV
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
+
+#EXTINF:-1 tvg-id="PBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/330px-PBS_logo_2019.svg.png" group-title="News",PBS East
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+
+#EXTINF:-1 tvg-id="PBSWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/330px-PBS_logo_2019.svg.png" group-title="News",PBS West
+https://pbs.lls.cdn.pbs.org/pst/index.m3u8
+
+#EXTINF:-1 tvg-id="WMPTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/330px-PBS_logo_2019.svg.png" group-title="News",PBS Mpt
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WMPTDT2.us" tvg-logo="https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/circle_logos/124b8f4dd9_circle_logo_mpt2.png?resize=767x,no-scale-up" group-title="News",PBS Mpt 2
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8?CatOTA21117
+
+#EXTINF:-1 tvg-id="WKMJDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/PBS_World_%282012%29.png" group-title="News",PBS World
+https://world.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-id="WorldChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/PBS_World_%282012%29.png" group-title="News",PBS World Alt2
+https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KLCSDT3.us" tvg-logo="https://i.imgur.com/OIJTECP.png" group-title="News",PBS Create
+https://create.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.PBS.Travel.plex" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F7498e884-3fc2-42a7-813d-8294e2ff22a6%2FPBS_Travel_Logo_Stacked_BLUEWhiteRDX.png" group-title="News",PBS Travel
+https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/BytesInfinity/TV-Channel-Logos/main/PBS%20History%20Blue%20Logo.png" group-title="News",PBS History
+https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/BytesInfinity/TV-Channel-Logos/main/PBS%20History%20Blue%20Logo.png" group-title="News",PBS History Alt2
+https://amg02333-pbs-amg02333c1-samsung-nz-1254.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/BytesInfinity/TV-Channel-Logos/main/PBS%20Science%20Blue%20Logo.jpg" group-title="News",PBS Science
+https://amg02333-pbs-amg02333c13-samsung-au-6858.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/BytesInfinity/TV-Channel-Logos/main/Mayday%20Air%20Disaster.png" group-title="News",Mayday Air Disaster
+https://d1vx4007e1im6x.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Smithsonian.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Smithsonian_Channel_%28Latinoam%C3%A9rica%29.jpg" group-title="Classic",Smithsonian
+https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+
+#EXTINF:-1 tvg-id="Smithsonian_Alt2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Smithsonian_Channel_%28Latinoam%C3%A9rica%29.jpg" group-title="Classic",Smithsonian Alt2
+http://10k.lucastv.pro:80/2c99755ae255/gJnMAT2/328939
+
+#EXTINF:-1 tvg-id="Smithsonian_Alt3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Smithsonian_Channel_%28Latinoam%C3%A9rica%29.jpg" group-title="Classic",Smithsonian Alt3
+http://40.160.24.55/SMITHSONIAN/index.m3u8
+
+#EXTINF:-1 tvg-id="Smithsonian.se" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Smithsonian_Channel_%28Latinoam%C3%A9rica%29.jpg" group-title="Classic",Smithsonian Sweden
+https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
+
+#EXTINF:-1 tvg-id="Smithsonian.dk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Smithsonian_Channel_%28Latinoam%C3%A9rica%29.jpg" group-title="Classic",Smithsonian Denmark
+https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
+
+#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-logo="https://images.pluto.tv/channels/61fb9907b1b78d000717ed9f/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="Classic",Smithsonian Channel Selects
+https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
+
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/330px-Natgeologo.svg.png" group-title="Classic",National Geographic
+http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=45453
+
+#EXTINF:-1 tvg-id="NatGeo_Alt2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/330px-Natgeologo.svg.png" group-title="Classic",National Geographic Alt2
+http://198.58.104.90:8989/natgeo/index.m3u8
+
+#EXTINF:-1 tvg-id="NatGeo_Alt3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/330px-Natgeologo.svg.png" group-title="Classic",National Geographic Alt3
+http://198.58.104.90:8989/natgeo/index.m3u8
+
+#EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="https://cdn-1.webcatalog.io/catalog/tcm/tcm-icon-filled-256.webp?v=1714776089100" group-title="Classic",TCM East
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="TCMWest.us" tvg-logo="https://cdn-1.webcatalog.io/catalog/tcm/tcm-icon-filled-256.webp?v=1714776089100" group-title="Classic",TCM West
+https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHistory.us" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="Classic",Pluto TV History
+https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="Classic",Pluto TV Science
+https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_(2021).svg/250px-History_(2021).svg.png" group-title="Classic",History
+http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=45444
+
+#EXTINF:-1 tvg-id="HistoryChannel_Alt2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_(2021).svg/250px-History_(2021).svg.png" group-title="Classic",History Alt2
+http://4.30.180.36:8420/history/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="PersianaScience.us" tvg-logo="https://i.postimg.cc/jd3ck5dw/persiana-science512.png" group-title="Classic",Persiana Science
+https://scihls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BBC_Earth.svg/330px-BBC_Earth.svg.png" group-title="Classic",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USBC2100008DP" tvg-logo="https://i.imgur.com/WaGRlFO.png" group-title="Classic",Xplore
+https://xplore-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.es" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="News",Nature Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgdk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-logo="https://i.imgur.com/882kd90.png" group-title="News",Stingray Naturescape 2
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="DroneTV.us" tvg-logo="https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F737e0665-4cdf-4bde-a55e-46813581747d-1729008554.288934.256x256.png&w=256&q=75" group-title="News",Drone TV
+https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBSEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-cbs-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-7-pack-icons-282749.png?f=webp&w=256" group-title="News",CBS
+http://4.30.180.36:8420/cbs/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="CBSEast_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-cbs-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-7-pack-icons-282749.png?f=webp&w=256" group-title="News",CBS Alt2
+https://cdn.telecloud.tv/CH3247/index.m3u8
+
+#EXTINF:-1 tvg-id="NBCEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/250px-NBC_logo.svg.png" group-title="News",NBC
+http://4.30.180.36:8420/nbc/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="NBCEast_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/250px-NBC_logo.svg.png" group-title="News",NBC Alt2
+http://168.228.44.241:9999/play/a04x/index.m3u8
+
+#EXTINF:-1 tvg-id="ABCEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/American_Broadcasting_Company_%28ABC%29_Logo.png" group-title="News",ABC
+http://4.30.180.36:8420/abc/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="ABCEast_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/American_Broadcasting_Company_%28ABC%29_Logo.png" group-title="News",ABC Alt2
+https://cdn.telecloud.tv/CH3271/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/330px-FOX_wordmark.svg.png" group-title="News",FOX East
+http://190.197.41.183/Fox/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXEast_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/330px-FOX_wordmark.svg.png" group-title="News",FOX East Alt2
+http://stream.cammonitorplus.net/1760/index.m3u8
+
+#EXTINF:-1 tvg-id="TWC.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/250px-The_Weather_Channel_logo_2005-present.svg.png" group-title="News",The Weather Channel
+https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
+
+#EXTINF:-1 tvg-id="TWC_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/250px-The_Weather_Channel_logo_2005-present.svg.png" group-title="News",The Weather Channel Alt2
+http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10449
+
+#EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/7/79/HBO_logo.png/revision/latest/scale-to-width-down/180?cb=20220831182029" group-title="Classic",HBO
+http://15.204.246.24:8080/HBOHD/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO_Alt2.us" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/7/79/HBO_logo.png/revision/latest/scale-to-width-down/180?cb=20220831182029" group-title="Classic",HBO Alt2
+http://tvsen7.aynascope.net/hbo/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO_Alt3.us" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/7/79/HBO_logo.png/revision/latest/scale-to-width-down/180?cb=20220831182029" group-title="Classic",HBO Alt3
+https://cdn.telecloud.tv/CH3263/index.m3u8
+
+#EXTINF:-1 tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/330px-Showtime.svg.png" group-title="Classic",Showtime
+http://4.30.180.36:8420/showtime/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Showtime_Alt2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/330px-Showtime.svg.png" group-title="Classic",Showtime Alt2
+https://cdn.telecloud.tv/CH3269/index.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/250px-Tennis_Channel_logo.svg.png" group-title="News",Tennis Channel
+https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tennis_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/250px-Tennis_Channel_logo.svg.png" group-title="News",Tennis Channel Alt2
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Golf.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/330px-Golf_Channel_logo_2025.svg.png" group-title="News",Golf
+http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=45554
+
+#EXTINF:-1 tvg-id="Golf_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/330px-Golf_Channel_logo_2025.svg.png" group-title="News",Golf Alt2
+https://tvsen6.aynaott.com/golfchannel/index.m3u8
+
+#EXTINF:-1 tvg-id="Golf_Alt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/330px-Golf_Channel_logo_2025.svg.png" group-title="News",Golf Alt3
+http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=45532
+
+#EXTINF:-1 tvg-id="Golf_Alt4.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/330px-Golf_Channel_logo_2025.svg.png" group-title="News",Golf Alt4
+http://10k.lucastv.pro:80/2c99755ae255/gJnMAT2/328810
+
+#EXTINF:-1 tvg-id="Marquee.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/330px-Marquee_Sports_Network_Logo.svg.png" group-title="News",Marquee (Cubs)
+http://s.rocketdns.info:8080/live/09145054/65339468/55178.ts
+
+#EXTINF:-1 tvg-id="MarqueeAlt2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/330px-Marquee_Sports_Network_Logo.svg.png" group-title="News",Marquee (Cubs) Alt2
+https://restream-live.realiptv.to/1234567/7654321/401174
+
+#EXTINF:-1 tvg-id="MarqueeAlt3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/330px-Marquee_Sports_Network_Logo.svg.png" group-title="News",Marquee (Cubs) Alt3
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/104270
+
+#EXTINF:-1 tvg-id="MarqueeAlt4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/330px-Marquee_Sports_Network_Logo.svg.png" group-title="News",Marquee (Cubs) Alt4
+http://40.160.24.52/MARQUEE_SPORTS_NETWORK_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="CHSN.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Chicago_Sports_Network_Logo.png" group-title="News",CHSN Chicago Sports
+https://restream-live.realiptv.to/1234567/7654321/697197
+
+#EXTINF:-1 tvg-id="CHSN_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Chicago_Sports_Network_Logo.png" group-title="News",CHSN Chicago Sports Alt2
+https://tvpass.org/live/chicago-sports-network/hd
+
+#EXTINF:-1 tvg-id="CHSN_Alt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Chicago_Sports_Network_Logo.png" group-title="News",CHSN Chicago Sports Alt3
+https://endpnt.com/hls/chsn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CHSNPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Chicago_Sports_Network_Logo.png" group-title="News",CHSN Chicago Sports Plus
+http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFad6Iq71zVJrzh8z5Pjmhxj0
+
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_(2019).svg/330px-C-SPAN_Logo_(2019).svg.png" group-title="News",CSPAN
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102144
+
+#EXTINF:-1 tvg-id="CSPAN_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_(2019).svg/330px-C-SPAN_Logo_(2019).svg.png" group-title="News",CSPAN Alt2
+http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/31396
+
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9B6XIQC.png" group-title="News",CSPAN 2
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102145
+
+#EXTINF:-1 tvg-id="CSPAN2_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9B6XIQC.png" group-title="News",CSPAN 2 Alt2
+http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/31395
+
+#EXTINF:-1 tvg-id="CSPAN3.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/CSPAN3_Navy-and-Amber.svg/revision/latest/scale-to-width-down/250?cb=20190318192203" group-title="News",CSPAN 3 American HistoryTV
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102146
+
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/CourtTV_Logo.jpg" group-title="News",Court TV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+
+#EXTINF:-1 tvg-id="CourtTV_Alt2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/CourtTV_Logo.jpg" group-title="News",Court TV Alt2
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Story.us" tvg-logo="https://i.imgur.com/o92WOqG.png" group-title="News",Story TV
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ModernMarvelsPresentedbyHISTORY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Modern_Marvels_title_credits.jpg?20160327060035" group-title="Classic",Modern Marvels
+https://b99b4dc2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfTW9kZXJuTWFydmVsc19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/330px-MeTV_Logo.svg.png" group-title="News",MeTV
+http://173.225.32.123/KPRY-MeTV-2347/index.m3u8
+
+#EXTINF:-1 tvg-id="MeTV_Alt2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/330px-MeTV_Logo.svg.png" group-title="News",MeTV Alt2
+https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
+
+#EXTINF:-1 tvg-id="ThisOldHouse.us" tvg-logo="https://i.imgur.com/nrVLyE6.png" group-title="Classic",This Old House
+https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us" tvg-logo="https://i.imgur.com/U9CYaok.png" group-title="Classic",Antiques Roadshow
+https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNBC.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/330px-CNBC_2025.svg.png" group-title="News",CNBC
+http://4.30.180.36:8420/cnbc/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="CNBC_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/330px-CNBC_2025.svg.png" group-title="News",CNBC Alt2
+http://rezofoot.tv/CNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="CNBC_Alt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/330px-CNBC_2025.svg.png" group-title="News",CNBC Alt3
+http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2610.ts
+
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="Classic",Comedy Central
+http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=45448
+
+#EXTINF:-1 tvg-id="ComedyCentral_Alt2.us" tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="Classic",Comedy Central Alt2
+http://4.30.180.36:8420/comedycentral/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Monsters.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Universal_Classic_Monsters_logo.jpg/330px-Universal_Classic_Monsters_logo.jpg" group-title="Classic",Monsters
+https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master_4.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVxvCOHzeocLDsuIfc5mzhzqMsBRXSkfhDJQ&s" group-title="Classic",Discovery
+http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=45447
+
+#EXTINF:-1 tvg-id="Discovery_Alt2.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVxvCOHzeocLDsuIfc5mzhzqMsBRXSkfhDJQ&s" group-title="Classic",Discovery Alt2
+http://212.5.144.156:8080/discovery/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/330px-2018_Animal_Planet_logo.svg.png" group-title="Classic",Animal Planet
+http://23.239.31.26:8989/animalplanet/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet_Alt2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/330px-2018_Animal_Planet_logo.svg.png" group-title="Classic",Animal Planet Alt2
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet_Alt3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/330px-2018_Animal_Planet_logo.svg.png" group-title="Classic",Animal Planet Alt3
+http://40.160.24.52/ANIMAL_PLANET/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalCrime.us" tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Classic",Crime
+https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/250px-Food_Network_logo.svg.png" group-title="Classic",Food Network
+http://4.30.180.36:8420/foodnetwork/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="FoodNetwork_Alt2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/250px-Food_Network_logo.svg.png" group-title="Classic",Food Network Alt2
+https://tvsen6.aynaott.com/foodnetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork_Alt3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/250px-Food_Network_logo.svg.png" group-title="Classic",Food Network Alt3
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="TBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/330px-TBS_2020.svg.png" group-title="News",TBS
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TBS_Alt2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/330px-TBS_2020.svg.png" group-title="News",TBS Alt2
+http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/10446
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0k6mPYZoKG2x0fHVWMGE7TT7iePTorYRo7g&s" group-title="News",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/330px-USA_Network_2020.svg.png" group-title="News",USA
+http://4.30.180.36:8420/usa/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="USA_Alt2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/330px-USA_Network_2020.svg.png" group-title="News",USA Alt2
+http://206.212.244.63/168/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/330px-ESPN_wordmark.svg.png" group-title="News",ESPN
+http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=45579
+
+#EXTINF:-1 tvg-id="ESPN_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/330px-ESPN_wordmark.svg.png" group-title="News",ESPN Alt2
+http://212.5.144.156:8080/espn/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN_Alt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/330px-ESPN_wordmark.svg.png" group-title="News",ESPN Alt3
+http://4.30.180.36:8420/espn/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png" group-title="News",ESPN 2
+http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=45580
+
+#EXTINF:-1 tvg-id="ESPN2_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png" group-title="News",ESPN 2 Alt2
+http://4.30.180.36:8420/espn2/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="ESPN2_Alt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png" group-title="News",ESPN 2 Alt3
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts
+
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/330px-ESPNews.svg.png" group-title="News",ESPNNews
+http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=45578
+
+#EXTINF:-1 tvg-id="ESPNNews_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/330px-ESPNews.svg.png" group-title="News",ESPNNews Alt2
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102017
+
+#EXTINF:-1 tvg-id="ESPNNews_Alt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/330px-ESPNews.svg.png" group-title="News",ESPNNews Alt3
+http://41.205.93.154/ESPNNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/250px-ESPN_U_logo.svg.png" group-title="News",ESPNU
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNU_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/250px-ESPN_U_logo.svg.png" group-title="News",ESPNU Alt2
+http://4.30.180.36:8420/espnu/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="ESPNU_Alt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/250px-ESPN_U_logo.svg.png" group-title="News",ESPNU Alt3
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXSports1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="News",FS1
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXSports1_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="News",FS1 Alt2
+https://cdn.telecloud.tv/CH3223/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="News",FS2
+http://2806-2026.gold:8089/live/1826465239420/4192874740371/85691337.ts
+
+#EXTINF:-1 tvg-id="FoxSports2_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="News",FS2 Alt2
+https://cdn.telecloud.tv/CH3225/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2_Alt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="News",FS2 Alt3
+http://app.horizonpanel.net:80/TimmyBrown22/a8Sg1N94/1004381
