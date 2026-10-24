@@ -10,7 +10,7 @@ Playlists are organized by user group (eg. grp1.m3u). Each group has its own pla
 
 | Group | Description |
 |---|---|
-| grp1.m3u | `Filtered group of News, Documentary, Classic TV, Sports channels` |
+| grp1.m3u | `Filtered group of News, Documentary, Ambient, Classic TV, Sports channels` |
 | grp2.m3u | `Filtered group of TV channels` (potential future) |
 
 ## Usage
