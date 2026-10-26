@@ -1,4 +1,4 @@
-# playlistsTV
+# TV Playlists
 IPTV Playlists targeted for specific group interests for use with IPTV players.
 
 ## Overview
