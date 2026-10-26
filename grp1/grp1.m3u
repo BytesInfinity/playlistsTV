@@ -201,7 +201,7 @@ https://restream-live.realiptv.to/1234567/7654321/401174
 #EXTINF:-1 tvg-id="CHSN.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Chicago_Sports_Network_Logo.png" group-title="News",CHSN Chicago Sports
 https://restream-live.realiptv.to/1234567/7654321/697197
 
-#EXTINF:-1 tvg-id="CSPAN.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/BytesInfinity/TV-Channel-Logos/main/CSPAN.png" group-title="News",CSPAN
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/04/c-span-new-logo-780x440.jpg" group-title="News",CSPAN
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102144
 
 #EXTINF:-1 tvg-id="CSPAN2.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/BytesInfinity/TV-Channel-Logos/main/CSPAN2.png" group-title="News",CSPAN 2
