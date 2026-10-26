@@ -201,13 +201,13 @@ https://restream-live.realiptv.to/1234567/7654321/401174
 #EXTINF:-1 tvg-id="CHSN.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Chicago_Sports_Network_Logo.png" group-title="News",CHSN Chicago Sports
 https://restream-live.realiptv.to/1234567/7654321/697197
 
-#EXTINF:-1 tvg-id="CSPAN.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2019/04/c-span-new-logo-780x440.jpg" group-title="News",CSPAN
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/BytesInfinity/TV-Channel-Logos/main/CSPAN.png" group-title="News",CSPAN
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102144
 
-#EXTINF:-1 tvg-id="CSPAN2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9B6XIQC.png" group-title="News",CSPAN 2
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/BytesInfinity/TV-Channel-Logos/main/CSPAN2.png" group-title="News",CSPAN 2
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102145
 
-#EXTINF:-1 tvg-id="CSPAN3.us" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopyOiLwRpepVQWuZiADIig9GslKmi_Y72mcJFODYHbgTgF2nD8Upm6dg&s=10" group-title="News",CSPAN 3 American HistoryTV
+#EXTINF:-1 tvg-id="CSPAN3.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/BytesInfinity/TV-Channel-Logos/main/CSPAN3.png" group-title="News",CSPAN 3 American HistoryTV
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102146
 
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/CourtTV_Logo.jpg" group-title="News",Court TV
