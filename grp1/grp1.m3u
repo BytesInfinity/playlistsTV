@@ -6,14 +6,8 @@ http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&strea
 #EXTINF:-1 tvg-id="CNNUSA_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/500px-CNN_International_logo.svg.png" group-title="News",CNN Alt2
 http://4.30.180.36:8420/cnn/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="CNNUSA_Alt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/500px-CNN_International_logo.svg.png" group-title="News",CNN Alt3
-http://212.5.144.156:8080/cnn/index.m3u8
-
 #EXTINF:-1 tvg-id="CNNInternationalUK.us" tvg-country="UK" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJrTL8UIcbZsn9gQJkyxeW8T8iO3uD9rGOg&s" group-title="News",CNN International
 https://jmp2.uk/stvp-ATBD800001VA
-
-#EXTINF:-1 tvg-id="CNNInternationalUK_Alt2.us" tvg-country="UK" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJrTL8UIcbZsn9gQJkyxeW8T8iO3uD9rGOg&s" group-title="News",CNN International Alt2
-https://jmp2.uk/stvp-GBBD8000016N
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/330px-MS_NOW_logo.svg.png" group-title="News",MS NOW
 http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=45535
@@ -81,8 +75,11 @@ https://amg02333-pbs-amg02333c1-samsung-nz-1254.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/BytesInfinity/TV-Channel-Logos/main/PBS%20Science%20Blue%20Logo.jpg" group-title="News",PBS Science
 https://amg02333-pbs-amg02333c13-samsung-au-6858.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/BytesInfinity/TV-Channel-Logos/main/Mayday%20Air%20Disaster.png" group-title="News",Mayday Air Disaster
-https://d1vx4007e1im6x.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHistory.us" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="Classic",Pluto TV History
+https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="Classic",Pluto TV Science
+https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
 
 #EXTINF:-1 tvg-id="Smithsonian.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Smithsonian_Channel_%28Latinoam%C3%A9rica%29.jpg" group-title="Classic",Smithsonian
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
@@ -102,23 +99,20 @@ http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&strea
 #EXTINF:-1 tvg-id="NatGeo_Alt2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/330px-Natgeologo.svg.png" group-title="Classic",National Geographic Alt2
 http://198.58.104.90:8989/natgeo/index.m3u8
 
-#EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="https://cdn-1.webcatalog.io/catalog/tcm/tcm-icon-filled-256.webp?v=1714776089100" group-title="Classic",TCM East
-https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-
-#EXTINF:-1 tvg-id="TCMWest.us" tvg-logo="https://cdn-1.webcatalog.io/catalog/tcm/tcm-icon-filled-256.webp?v=1714776089100" group-title="Classic",TCM West
-https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVHistory.us" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="Classic",Pluto TV History
-https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="Classic",Pluto TV Science
-https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
-
 #EXTINF:-1 tvg-id="HistoryChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_(2021).svg/250px-History_(2021).svg.png" group-title="Classic",History
 http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=45444
 
 #EXTINF:-1 tvg-id="HistoryChannel_Alt2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_(2021).svg/250px-History_(2021).svg.png" group-title="Classic",History Alt2
 http://4.30.180.36:8420/history/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/BytesInfinity/TV-Channel-Logos/main/Mayday%20Air%20Disaster.png" group-title="News",Mayday Air Disaster
+https://d1vx4007e1im6x.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TCMEast.us" tvg-logo="https://cdn-1.webcatalog.io/catalog/tcm/tcm-icon-filled-256.webp?v=1714776089100" group-title="Classic",TCM East
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="TCMWest.us" tvg-logo="https://cdn-1.webcatalog.io/catalog/tcm/tcm-icon-filled-256.webp?v=1714776089100" group-title="Classic",TCM West
+https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 
 #EXTINF:-1 tvg-id="PersianaScience.us" tvg-logo="https://i.postimg.cc/jd3ck5dw/persiana-science512.png" group-title="Classic",Persiana Science
 https://scihls.persiana.live/hls/stream.m3u8
@@ -162,9 +156,6 @@ http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/106437
 #EXTINF:-1 tvg-id="FOXEast_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/330px-FOX_wordmark.svg.png" group-title="News",FOX East Alt2
 http://190.197.41.183/Fox/index.m3u8
 
-#EXTINF:-1 tvg-id="FOXEast_Alt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/330px-FOX_wordmark.svg.png" group-title="News",FOX East Alt3
-http://stream.cammonitorplus.net/1760/index.m3u8
-
 #EXTINF:-1 tvg-id="TWC.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/250px-The_Weather_Channel_logo_2005-present.svg.png" group-title="News",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 
@@ -207,29 +198,14 @@ http://s.rocketdns.info:8080/live/09145054/65339468/55178.ts
 #EXTINF:-1 tvg-id="MarqueeAlt3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/330px-Marquee_Sports_Network_Logo.svg.png" group-title="News",Marquee (Cubs) Alt3
 https://restream-live.realiptv.to/1234567/7654321/401174
 
-#EXTINF:-1 tvg-id="MarqueeAlt4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/330px-Marquee_Sports_Network_Logo.svg.png" group-title="News",Marquee (Cubs) Alt4
-http://40.160.24.52/MARQUEE_SPORTS_NETWORK_HD/index.m3u8
-
 #EXTINF:-1 tvg-id="CHSN.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Chicago_Sports_Network_Logo.png" group-title="News",CHSN Chicago Sports
 https://restream-live.realiptv.to/1234567/7654321/697197
-
-#EXTINF:-1 tvg-id="CHSN_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Chicago_Sports_Network_Logo.png" group-title="News",CHSN Chicago Sports Alt2
-https://tvpass.org/live/chicago-sports-network/hd
-
-#EXTINF:-1 tvg-id="CHSN_Alt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Chicago_Sports_Network_Logo.png" group-title="News",CHSN Chicago Sports Alt3
-https://endpnt.com/hls/chsn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CSPAN.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_(2019).svg/330px-C-SPAN_Logo_(2019).svg.png" group-title="News",CSPAN
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102144
 
-#EXTINF:-1 tvg-id="CSPAN_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_(2019).svg/330px-C-SPAN_Logo_(2019).svg.png" group-title="News",CSPAN Alt2
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/31396
-
 #EXTINF:-1 tvg-id="CSPAN2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9B6XIQC.png" group-title="News",CSPAN 2
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102145
-
-#EXTINF:-1 tvg-id="CSPAN2_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9B6XIQC.png" group-title="News",CSPAN 2 Alt2
-http://tkosportz.live:25461/catrinamcdermott/catrinamcdermott/31395
 
 #EXTINF:-1 tvg-id="CSPAN3.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/CSPAN3_Navy-and-Amber.svg/revision/latest/scale-to-width-down/250?cb=20190318192203" group-title="News",CSPAN 3 American HistoryTV
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102146
