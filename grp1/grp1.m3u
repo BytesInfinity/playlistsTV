@@ -159,13 +159,13 @@ http://190.197.41.183/Fox/index.m3u8
 #EXTINF:-1 tvg-id="TWC.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/250px-The_Weather_Channel_logo_2005-present.svg.png" group-title="News",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 
-#EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/7/79/HBO_logo.png/revision/latest/scale-to-width-down/180?cb=20220831182029" group-title="Classic",HBO
+#EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="Classic",HBO
 http://15.204.246.24:8080/HBOHD/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO_Alt2.us" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/7/79/HBO_logo.png/revision/latest/scale-to-width-down/180?cb=20220831182029" group-title="Classic",HBO Alt2
+#EXTINF:-1 tvg-id="HBO_Alt2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="Classic",HBO Alt2
 http://tvsen7.aynascope.net/hbo/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO_Alt3.us" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/7/79/HBO_logo.png/revision/latest/scale-to-width-down/180?cb=20220831182029" group-title="Classic",HBO Alt3
+#EXTINF:-1 tvg-id="HBO_Alt3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="Classic",HBO Alt3
 https://cdn.telecloud.tv/CH3263/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/330px-Showtime.svg.png" group-title="Classic",Showtime
@@ -207,7 +207,7 @@ http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102144
 #EXTINF:-1 tvg-id="CSPAN2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9B6XIQC.png" group-title="News",CSPAN 2
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102145
 
-#EXTINF:-1 tvg-id="CSPAN3.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/CSPAN3_Navy-and-Amber.svg/revision/latest/scale-to-width-down/250?cb=20190318192203" group-title="News",CSPAN 3 American HistoryTV
+#EXTINF:-1 tvg-id="CSPAN3.us" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopyOiLwRpepVQWuZiADIig9GslKmi_Y72mcJFODYHbgTgF2nD8Upm6dg&s=10" group-title="News",CSPAN 3 American HistoryTV
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102146
 
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/CourtTV_Logo.jpg" group-title="News",Court TV
