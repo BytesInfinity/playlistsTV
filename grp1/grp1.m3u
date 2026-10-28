@@ -159,13 +159,10 @@ http://190.197.41.183/Fox/index.m3u8
 #EXTINF:-1 tvg-id="TWC.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/250px-The_Weather_Channel_logo_2005-present.svg.png" group-title="News",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 
-#EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="Classic",HBO Movies
+#EXTINF:-1 tvg-id="HBOMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="Classic",HBO Movies
 https://cdn.telecloud.tv/CH3263/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/330px-Showtime.svg.png" group-title="Classic",Showtime
-http://4.30.180.36:8420/showtime/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Showtime_Alt2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/330px-Showtime.svg.png" group-title="Classic",Showtime Alt2
 https://cdn.telecloud.tv/CH3269/index.m3u8
 
 #EXTINF:-1 tvg-id="Tennis.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/250px-Tennis_Channel_logo.svg.png" group-title="News",Tennis Channel
