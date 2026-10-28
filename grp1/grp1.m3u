@@ -159,13 +159,7 @@ http://190.197.41.183/Fox/index.m3u8
 #EXTINF:-1 tvg-id="TWC.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/250px-The_Weather_Channel_logo_2005-present.svg.png" group-title="News",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 
-#EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="Classic",HBO
-http://15.204.246.24:8080/HBOHD/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO_Alt2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="Classic",HBO Alt2
-http://tvsen7.aynascope.net/hbo/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO_Alt3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="Classic",HBO Alt3
+#EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="Classic",HBO Movies
 https://cdn.telecloud.tv/CH3263/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/330px-Showtime.svg.png" group-title="Classic",Showtime
@@ -262,9 +256,6 @@ https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
 http://4.30.180.36:8420/foodnetwork/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="FoodNetwork_Alt2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/250px-Food_Network_logo.svg.png" group-title="Classic",Food Network Alt2
-https://tvsen6.aynaott.com/foodnetwork/index.m3u8
-
-#EXTINF:-1 tvg-id="FoodNetwork_Alt3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/250px-Food_Network_logo.svg.png" group-title="Classic",Food Network Alt3
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="TBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/330px-TBS_2020.svg.png" group-title="News",TBS
@@ -292,7 +283,7 @@ http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&strea
 http://4.30.180.36:8420/espn2/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="ESPN2_Alt3.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png" group-title="News",ESPN 2 Alt3
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/330px-ESPNews.svg.png" group-title="News",ESPNNews
 http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:00:3D:60&stream=45578
@@ -319,7 +310,4 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 https://cdn.telecloud.tv/CH3223/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="News",FS2
-https://tvsen7.aynascope.net/foxsports2/index.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports2_Alt2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="News",FS2 Alt2
 https://cdn.telecloud.tv/CH3225/index.m3u8
